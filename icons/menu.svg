@@ -1,0 +1,11 @@
+<svg id="menu" xmlns="http://www.w3.org/2000/svg" width="290" height="290" viewBox="0 0 290 290">
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="70" height="70" transform="translate(0 220)" fill="#fff"/>
+  <rect id="Rectangle_2" data-name="Rectangle 2" width="70" height="70" transform="translate(0 110)" fill="#fff"/>
+  <rect id="Rectangle_3" data-name="Rectangle 3" width="70" height="70" fill="#fff"/>
+  <rect id="Rectangle_4" data-name="Rectangle 4" width="70" height="70" transform="translate(110 220)" fill="#fff"/>
+  <rect id="Rectangle_5" data-name="Rectangle 5" width="70" height="70" transform="translate(110 110)" fill="#fff"/>
+  <rect id="Rectangle_6" data-name="Rectangle 6" width="70" height="70" transform="translate(110)" fill="#fff"/>
+  <rect id="Rectangle_7" data-name="Rectangle 7" width="70" height="70" transform="translate(220 220)" fill="#fff"/>
+  <rect id="Rectangle_8" data-name="Rectangle 8" width="70" height="70" transform="translate(220 110)" fill="#fff"/>
+  <rect id="Rectangle_9" data-name="Rectangle 9" width="70" height="70" transform="translate(220)" fill="#fff"/>
+</svg>
